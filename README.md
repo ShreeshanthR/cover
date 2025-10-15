@@ -89,7 +89,7 @@ Publish the website in the LocalHost.
         .special {
             font-size: 22px;
             font-weight: bold;
-            margin-top: 200px;
+            margin-top: 400px;
             color: rgb(28, 114, 171);
             text-align: left;
         }
@@ -151,7 +151,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (16).png>)
+![alt text](<Screenshot (45).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
