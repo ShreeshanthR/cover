@@ -55,9 +55,7 @@ Publish the website in the LocalHost.
             position: relative;
             background: rgba(255, 250, 240, 0.9);
             background-image: url(abc.jpg);
-            /* faded parchment feel */
             border: 5px solid black;
-            /* dark brown vintage border */
             border-radius: 6%;
         }
 
